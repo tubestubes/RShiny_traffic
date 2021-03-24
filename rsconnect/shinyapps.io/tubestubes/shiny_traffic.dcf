@@ -5,6 +5,6 @@ account: tubestubes
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 3768263
-bundleId: 4326571
+bundleId: 4386663
 url: https://tubestubes.shinyapps.io/shiny_traffic/
-when: 1615388131.22008
+when: 1616539024.58323
